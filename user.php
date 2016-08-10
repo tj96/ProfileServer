@@ -65,7 +65,7 @@ $skill_q_result->bindParam(":roll_no",$roll_no);
         <li class="active"><a href="#" id="header-user">Minion</a></li>
         <li><a href="login" id="header-login">Login</a></li>
         <li><a href="register" id="header-signup">Sign Up</a></li>
-        <li><a href="edit" id="header-settings"><i class="material-icons setting-button">settings</i></a></li>
+        <li><a href="edit" id="header-settings"><i class="material-icons setting-button">Settings</i></a></li>
       </ul>
     </div>
   </nav>
